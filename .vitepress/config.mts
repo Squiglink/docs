@@ -1,13 +1,10 @@
 import { defineConfig } from "vitepress";
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/docs/",
-  title: "Squiglink",
   description:
     "Empowering creators to publish frequency response data for headphones and IEMs",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
       { text: "Examples", link: "/markdown-examples" },
@@ -27,4 +24,5 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
   },
+  title: "Squiglink",
 });
