@@ -3,22 +3,22 @@
 layout: home
 
 hero:
-  name: "Squiglink"
-  text: "Empowering creators to publish frequency response data for headphones and IEMs"
-  tagline: My great project tagline
+  name: Squiglink
+  text: The frequency response database
+  tagline: Empowering creators to publish frequency response data for headphones and IEMs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Getting started
+      link: /getting-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: API reference
+      link: /api-reference
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Enthusiast-friendly
+    details: A community-powered staple of the personal audio hobby.
+  - title: Informed choices
+    details: Helping consumers make informed purchase decisions.
+  - title: Data-enhanced
+    details: Improving audio hardware products with insightful data.
 ---
