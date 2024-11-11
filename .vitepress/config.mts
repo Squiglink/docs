@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   base: "/docs/",
+  cleanUrls: true,
   description:
     "Empowering creators to publish frequency response data for headphones and IEMs",
   srcDir: "src",
