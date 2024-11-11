@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/docs/",
   title: "Squiglink",
   description:
     "Empowering creators to publish frequency response data for headphones and IEMs",
